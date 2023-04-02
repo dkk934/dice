@@ -1,0 +1,48 @@
+/* *{
+    border: 1px solid black;
+} */
+h1{
+    font-size: 70px;
+    font-family: cursive;
+    width: 70%;
+    padding: 0 0 15px 0 ;
+    border-radius: 30px;
+    text-shadow: 5px 10px 6px rgb(179, 170, 170);
+    box-shadow: 5px 10px 6px 3px rgb(179, 170, 170);
+}
+.p{
+    font-size: 3em;
+    display: inline-block;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0 0 15px 0 ;
+    border-radius: 30px;
+    text-shadow: 5px 6px 6px rgb(119, 119, 119);
+    font-stretch: 12px;
+    gap: 9px;   
+}
+.images{
+    border-radius: 12%;
+    box-shadow: 5px 10px 6px 3px rgb(179, 170, 170);
+}
+
+.bt {
+  font-size:18px;
+  font-family:Comic Sans MS;
+  width:106px;
+  height:39px;
+  border-width:0px;
+  color:rgba(74, 74, 74, 1);
+  border-color:#599bb3;
+  border-top-left-radius:15px;
+  border-top-right-radius:15px;
+  border-bottom-left-radius:15px;
+  border-bottom-right-radius:15px;
+  box-shadow: 0px 10px 14px -7px rgba(0, 0, 0, 1);
+  text-shadow: 0px 1px 0px rgba(0, 0, 0, 1);
+  background:linear-gradient(rgba(255, 255, 255, 1), rgba(155, 155, 155, 0.52));
+}
+
+.bt:hover {
+  background: linear-gradient(rgba(155, 155, 155, 0.52), rgba(255, 255, 255, 1));
+}
+              
